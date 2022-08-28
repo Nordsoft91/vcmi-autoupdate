@@ -1,14 +1,16 @@
 {
-	"updateType" : "critical",
+	"updateType" : "minor",
 	"version" : "VCMI 0.99 92dc902748372fa1743ff24d4597b0b7b4c5c380",
 	"downloadLinks" : 
 	{
-		"macos" : "https://download.vcmi.eu/branch/develop/macOS/VCMI-branch-develop-92dc902.dmg",
-		"windows" : "https://download.vcmi.eu/branch/develop/Windows/VCMI-branch-develop-92dc902.exe",
-		"android" : "https://download.vcmi.eu/branch/develop/Android/VCMI-branch-develop-92dc902-7725ad0.apk",
+		"macos" : "https://builds.vcmi.download/branch/develop/macOS/",
+		"windows" : "https://builds.vcmi.download/branch/develop/Windows/",
+		"android" : "https://builds.vcmi.download/branch/develop/Android/",
 		"linux" : "https://wiki.vcmi.eu/Installation_on_Linux",
 		"ios" : "https://vcmi.eu",
 		"other" : "https://vcmi.eu"
 	},
-	"changeLog" : "[WARNING]\nThis is a hotfix release resolving some critical issue which we had before.\nSome long text\n- 1\n- 2\n- 3\n- 4\n- 5"
+	"changeLog" : "VCMI 0.99 Daily builds",
+	"history" : 
+	[ "VCMI 0.99 e547b468b6d4fdd626534beafd1e4f9e87c23cf2" ]
 }
